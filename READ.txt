@@ -1,1 +1,7 @@
 !!
+제목 분류 링크 글내용 사진 이미지
+
+DB : MYSQL
+
+Entity linking : pytorch or tensorflow
+AIP : 미정
